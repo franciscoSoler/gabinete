@@ -2,4 +2,5 @@ Los cables, con sus respectivos conectores, que conectan las antenas a los adapt
     Diámetro aproximado: 12 - 18 cm. Tratar de evitar límites, creo que lo ideal sería usar 16 cm. 
 
 IMPORTANTE:
-Los conectores N de las antenas no están a medida, ya voy a buscar su hoja de datos
+    * Los conectores N de las antenas no están a medida, ya voy a buscar su hoja de datos
+    * Los conectores N que están en las antenas tienen que apuntar en dirección horizontal y vertical. Como en el archivo dimensionesRF.dxf
