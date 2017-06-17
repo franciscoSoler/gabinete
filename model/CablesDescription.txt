@@ -1,0 +1,5 @@
+Los cables, con sus respectivos conectores, que conectan las antenas a los adaptadores N-SMA del modelo RF tienen las siguientes características:
+    Diámetro aproximado: 12 - 18 cm. Tratar de evitar límites, creo que lo ideal sería usar 16 cm. 
+
+IMPORTANTE:
+Los conectores N de las antenas no están a medida, ya voy a buscar su hoja de datos
